@@ -1,4 +1,4 @@
-<nav><a href="/">Home</a> | <a href="/faq">FAQ</a> | <a href="/work">Previous work</a></nav>
+<nav><a href="/Digital-Consultant-Role">Home</a> | <a href="/Digital-Consultant-Role/faq">FAQ</a> | <a href="/Digital-Consultant-Role/work">Previous work</a></nav>
 
 # Welcome potential Digital Consultants
 
